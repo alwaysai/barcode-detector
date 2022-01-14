@@ -1,5 +1,5 @@
-# Barcode Detection
-Use [Barcode Detection](to_be_added) to detect and decode Barcodes in a real-time camera stream.
+# Barcode Detector
+Use [Barcode Detection](to_be_added) to detect and decode Barcode(s) in a real-time camera stream.
 
 ## Requirements
 * [alwaysAI account](https://alwaysai.co/auth?register=true)

@@ -1,5 +1,5 @@
 # Barcode Detector
-Use [Barcode Detection](to_be_added) to detect and decode Barcode(s) in a real-time camera stream.
+Use [Barcode Detection](https://alwaysai.co/docs/edgeiq_api/barcode_detection.html) to detect and decode Barcode(s) in a real-time camera stream.
 
 ## Requirements
 * [alwaysAI account](https://alwaysai.co/auth?register=true)

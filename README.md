@@ -31,5 +31,6 @@ Click on the red stop button in the streamer or do CTRL+C from the command line.
  
 ## Support
 * [Documentation](https://alwaysai.co/docs/)
-* [Community Discord](https://discord.gg/z3t9pea)
+* [Community Discord](https://discord.gg/alwaysai)
 * Email: support@alwaysai.co
+
